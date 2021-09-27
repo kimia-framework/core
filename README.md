@@ -11,6 +11,8 @@ Kimia is a web application framework with typescript syntax. We believe developm
 - multiple template engines (twing for now)
 - simple translation engine
 - using ORM by sequelize
+- can add plugins
+- using memory caching
 
 ## License
-The Laravel framework is open-sourced software licensed under the MIT license.
+The kimia framework is open-sourced software licensed under the MIT license.
